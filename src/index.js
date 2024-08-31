@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 function newFeatureAdd(){
   console.log("this is a new feat");
+  console.log("this is a another new feat");
   
 }
 
